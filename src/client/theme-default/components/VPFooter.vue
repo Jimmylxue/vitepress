@@ -4,6 +4,7 @@ import { useSidebar } from '../composables/sidebar.js'
 
 const { theme } = useData()
 const { hasSidebar } = useSidebar()
+console.log('hello world')
 </script>
 
 <template>
